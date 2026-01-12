@@ -1,5 +1,5 @@
 # D-Tech Core Releases
-Official distribution repository for **D-Tech Core**, a powerful ECU Diagnostic Tool for Honda PGM-FI motorcycles.
+Official distribution repository for **D-Tech Core**, a ECU Diagnostic Tool for Honda PGM-FI motorcycles.
 
 ## 📥 Download
 You can download the latest version from the **Releases** section of this repository.
@@ -12,8 +12,8 @@ You can download the latest version from the **Releases** section of this reposi
 
 ## 📄 Safety & Privacy
 - **Verified Download**: This ZIP contains the official installer from DynoTraxx North Motorworks.
-- **Privacy Focused**: The application performs local diagnostics and does not collect personal engine data.
-- **Support**: For technical documentation and setup guides, visit [dynotraxx.com](https://dynotraxx.com).
+- **Privacy Focused**: The application performs local diagnostics and does not collect engine data.
 
 ---
 *Developed by DynoTraxx North Motorworks.*
+
