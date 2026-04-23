@@ -17,6 +17,6 @@ You can download the latest version from the **Releases** section of this reposi
 ## 📖 User Manual
 - **Manual**: https://d-tech.dynotraxx.com/manual/
 
-- 
+
 ---
 *Developed by DynoTraxx North Motorworks.*
