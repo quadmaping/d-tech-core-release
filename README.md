@@ -14,6 +14,9 @@ You can download the latest version from the **Releases** section of this reposi
 - **Verified Download**: This ZIP contains the official installer from DynoTraxx North Motorworks.
 - **Privacy Focused**: The application performs local diagnostics and does not collect engine data.
 
+## 📖 User Manual
+- **Manual**: https://d-tech.dynotraxx.com/manual/
+
+- 
 ---
 *Developed by DynoTraxx North Motorworks.*
-
