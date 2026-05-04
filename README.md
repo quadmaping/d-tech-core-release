@@ -7,6 +7,7 @@ You can download the latest version from the **Releases** section of this reposi
 ## 🛠 Features
 - **Live Data Dashboard**: Real-time monitoring of all critical parameters (RPM, TPS, ECT, etc.).
 - **DTC Scanning**: Professional interpretation of proprietary Honda Diagnostic Trouble Codes.
+- **Reporting**: One-click diagnostic information snapshots.
 - **Interactive Data Graphing**: High-speed visual analysis to catch intermittent sensor glitches.
 - **Adaptive Reset**: Essential maintenance tool for clearing ECU learned values after repairs.
 
