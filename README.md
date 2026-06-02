@@ -19,7 +19,7 @@ You can download the latest version from the **Releases** section of this reposi
 - **Manual**: https://d-tech.dynotraxx.com/manual/
 
 
-> [!NOTE]
+> [!WARNING]
 > **Known Issue: Intel Iris Xe Graphics**
 > If your system runs on an **Intel 11th Gen processor or newer** using integrated **Intel Iris Xe Graphics**, you may notice a minor memory leak where the app's background memory usage slowly climbs over time. 
 >
