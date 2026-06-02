@@ -18,6 +18,8 @@ You can download the latest version from the **Releases** section of this reposi
 ## 📖 User Manual
 - **Manual**: https://d-tech.dynotraxx.com/manual/
 
+> [!WARNING]
+> **Memory Leak Notice:** A known memory leak issue has been identified on systems running Intel 11th Generation and newer processors.
 
 ---
 *Developed by DynoTraxx North Motorworks.*
