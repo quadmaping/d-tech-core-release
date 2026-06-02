@@ -18,8 +18,13 @@ You can download the latest version from the **Releases** section of this reposi
 ## 📖 User Manual
 - **Manual**: https://d-tech.dynotraxx.com/manual/
 
-> [!WARNING]
-> **Memory Leak Notice:** A known memory leak issue has been identified on systems running Intel 11th Generation and newer processors.
+
+> [!NOTE]
+> **Known Issue: Intel Iris Xe Graphics**
+> If your system runs on an **Intel 11th Gen processor or newer** using integrated **Intel Iris Xe Graphics**, you may notice a minor memory leak where the app's background memory usage slowly climbs over time. 
+>
+> * **Why it happens:** This is a known, upstream rendering conflict between the rendering engine and Intel's display driver. It persists across all driver versions and cannot be resolved via application updates.
+> * **Workaround:** The leak is not severe, if you leave the app running for extended periods and notice any sluggishness, a quick restart of the app will reset the memory back to normal.
 
 ---
 *Developed by DynoTraxx North Motorworks.*
